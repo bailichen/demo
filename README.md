@@ -10,7 +10,23 @@
 ```
 1 border-radius ie8不兼容问题  用背景图片解决
 2 console.log在ie会报错  js代码要将console.log去除
-
-
-
+3 滚动事件时，ie8及ie8以下不支持document,所以用window对象，window对象兼容所有的浏览器
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
