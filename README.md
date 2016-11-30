@@ -15,7 +15,8 @@
 
 ##display:none和visibility:hidden
 ```
-运用插件时，当用到display:block时，会出现获取不到的bug，就用visibility:visible的方法解决即可，二者都不占文档流，运用插件时运用visibility属性是一个不错的选择
+运用插件时，当用到display:block时，会出现获取不到的bug，就用visibility:visible的方法解决即可，
+二者都不占文档流，运用插件时运用visibility属性是一个不错的选择
 ```
 
 
